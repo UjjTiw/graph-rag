@@ -1,0 +1,7 @@
+openai
+langchain
+gradio
+graphrag
+jupyter
+langchain_openai
+pandas
