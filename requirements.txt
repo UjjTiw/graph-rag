@@ -5,3 +5,4 @@ graphrag
 jupyter
 langchain_openai
 pandas
+chromadb

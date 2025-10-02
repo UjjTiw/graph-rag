@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-10-02">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="community" type="long" />
+      <attribute id="2" title="weight" type="double" />
+    </attributes>
+    <nodes>
+      <node id="367428fe-eedb-433a-ac6d-c825b8878750" label="367428fe-eedb-433a-ac6d-c825b8878750">
+        <attvalues>
+          <attvalue for="0" value="Community 0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="6.0" />
+        </attvalues>
+      </node>
+      <node id="cf78d30d-3a18-476a-81c7-b6cba151900a" label="cf78d30d-3a18-476a-81c7-b6cba151900a">
+        <attvalues>
+          <attvalue for="0" value="Community 1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="28.0" />
+        </attvalues>
+      </node>
+      <node id="1c78fd5c-5c72-4150-b8ac-e918152185ea" label="1c78fd5c-5c72-4150-b8ac-e918152185ea">
+        <attvalues>
+          <attvalue for="0" value="Community 2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="19.0" />
+        </attvalues>
+      </node>
+      <node id="18f58564-1996-4860-9657-921737f5a426" label="18f58564-1996-4860-9657-921737f5a426">
+        <attvalues>
+          <attvalue for="0" value="Community 3" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="17.0" />
+        </attvalues>
+      </node>
+      <node id="42ffd31e-040d-4f7f-91d9-2f23f0827acb" label="42ffd31e-040d-4f7f-91d9-2f23f0827acb">
+        <attvalues>
+          <attvalue for="0" value="Community 4" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="23.0" />
+        </attvalues>
+      </node>
+      <node id="ce6c4010-87e4-4e1a-8412-6623c1d67bbf" label="ce6c4010-87e4-4e1a-8412-6623c1d67bbf">
+        <attvalues>
+          <attvalue for="0" value="Community 5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="25.0" />
+        </attvalues>
+      </node>
+      <node id="bb668e2a-baa4-4754-8f2f-684942c410d8" label="bb668e2a-baa4-4754-8f2f-684942c410d8">
+        <attvalues>
+          <attvalue for="0" value="Community 6" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="25.0" />
+        </attvalues>
+      </node>
+      <node id="7b463e4c-eba9-492b-80da-c01ed822a402" label="7b463e4c-eba9-492b-80da-c01ed822a402">
+        <attvalues>
+          <attvalue for="0" value="Community 7" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="4.0" />
+        </attvalues>
+      </node>
+      <node id="4cd739d3-4687-47a0-960e-3b0f88110a6d" label="4cd739d3-4687-47a0-960e-3b0f88110a6d">
+        <attvalues>
+          <attvalue for="0" value="Community 8" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="d2ca0493-48a4-417b-9844-523d25ee1d36" label="d2ca0493-48a4-417b-9844-523d25ee1d36">
+        <attvalues>
+          <attvalue for="0" value="Community 9" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="20.0" />
+        </attvalues>
+      </node>
+      <node id="6e4e78c0-8000-4918-ae25-3a197e21935f" label="6e4e78c0-8000-4918-ae25-3a197e21935f">
+        <attvalues>
+          <attvalue for="0" value="Community 10" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="23.0" />
+        </attvalues>
+      </node>
+      <node id="2246e53c-ef65-47c9-ab84-04a8004cbd03" label="2246e53c-ef65-47c9-ab84-04a8004cbd03">
+        <attvalues>
+          <attvalue for="0" value="Community 11" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="3.0" />
+        </attvalues>
+      </node>
+      <node id="c724edcf-d227-4f34-8955-92636459e90b" label="c724edcf-d227-4f34-8955-92636459e90b">
+        <attvalues>
+          <attvalue for="0" value="Community 12" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="27.0" />
+        </attvalues>
+      </node>
+      <node id="cb72d7ac-b529-4f6b-8b4c-bad7798e99c9" label="cb72d7ac-b529-4f6b-8b4c-bad7798e99c9">
+        <attvalues>
+          <attvalue for="0" value="Community 13" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="6.0" />
+        </attvalues>
+      </node>
+      <node id="8839d1dd-4a41-4c84-9258-f1e23e773296" label="8839d1dd-4a41-4c84-9258-f1e23e773296">
+        <attvalues>
+          <attvalue for="0" value="Community 14" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="9.0" />
+        </attvalues>
+      </node>
+      <node id="9851fca2-221f-4e53-a368-58a183e654e8" label="9851fca2-221f-4e53-a368-58a183e654e8">
+        <attvalues>
+          <attvalue for="0" value="Community 15" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="4.0" />
+        </attvalues>
+      </node>
+      <node id="1e9f0cc5-0a3c-43da-96c9-42e0606f064a" label="1e9f0cc5-0a3c-43da-96c9-42e0606f064a">
+        <attvalues>
+          <attvalue for="0" value="Community 16" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="18.0" />
+        </attvalues>
+      </node>
+      <node id="0d8f8230-3836-497d-8750-f203aed7eb0b" label="0d8f8230-3836-497d-8750-f203aed7eb0b">
+        <attvalues>
+          <attvalue for="0" value="Community 17" />
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="17.0" />
+        </attvalues>
+      </node>
+      <node id="69b87f50-499d-48b8-9071-1aff63a92404" label="69b87f50-499d-48b8-9071-1aff63a92404">
+        <attvalues>
+          <attvalue for="0" value="Community 18" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="80607b3b-1f6e-4fc1-8506-37302c9237a8" label="80607b3b-1f6e-4fc1-8506-37302c9237a8">
+        <attvalues>
+          <attvalue for="0" value="Community 19" />
+          <attvalue for="1" value="19" />
+          <attvalue for="2" value="5.0" />
+        </attvalues>
+      </node>
+      <node id="011b122b-2db8-4134-9efe-1136dc83ea46" label="011b122b-2db8-4134-9efe-1136dc83ea46">
+        <attvalues>
+          <attvalue for="0" value="Community 20" />
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="4.0" />
+        </attvalues>
+      </node>
+      <node id="46d7dc91-41f2-47c6-a466-5d11f9cbcb52" label="46d7dc91-41f2-47c6-a466-5d11f9cbcb52">
+        <attvalues>
+          <attvalue for="0" value="Community 21" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="a50d816b-ac63-4c03-a6bb-ca43cf798d26" label="a50d816b-ac63-4c03-a6bb-ca43cf798d26">
+        <attvalues>
+          <attvalue for="0" value="Community 22" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="5.0" />
+        </attvalues>
+      </node>
+      <node id="f783c694-a1cb-4630-86a0-fc305143a28c" label="f783c694-a1cb-4630-86a0-fc305143a28c">
+        <attvalues>
+          <attvalue for="0" value="Community 23" />
+          <attvalue for="1" value="23" />
+          <attvalue for="2" value="6.0" />
+        </attvalues>
+      </node>
+      <node id="40354649-a0d9-49e9-8125-336697896c6c" label="40354649-a0d9-49e9-8125-336697896c6c">
+        <attvalues>
+          <attvalue for="0" value="Community 24" />
+          <attvalue for="1" value="24" />
+          <attvalue for="2" value="6.0" />
+        </attvalues>
+      </node>
+      <node id="76bfb806-e3b5-4a3a-a50d-6679113a823e" label="76bfb806-e3b5-4a3a-a50d-6679113a823e">
+        <attvalues>
+          <attvalue for="0" value="Community 25" />
+          <attvalue for="1" value="25" />
+          <attvalue for="2" value="3.0" />
+        </attvalues>
+      </node>
+      <node id="22a2b952-0d84-430d-b3b9-4eae1363d1a3" label="22a2b952-0d84-430d-b3b9-4eae1363d1a3">
+        <attvalues>
+          <attvalue for="0" value="Community 26" />
+          <attvalue for="1" value="26" />
+          <attvalue for="2" value="7.0" />
+        </attvalues>
+      </node>
+      <node id="cc9ea032-626c-445d-8b46-7c9d32f62417" label="cc9ea032-626c-445d-8b46-7c9d32f62417">
+        <attvalues>
+          <attvalue for="0" value="Community 27" />
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="4.0" />
+        </attvalues>
+      </node>
+      <node id="7b1b0ed3-79f9-45b4-ba45-af9d686296bc" label="7b1b0ed3-79f9-45b4-ba45-af9d686296bc">
+        <attvalues>
+          <attvalue for="0" value="Community 28" />
+          <attvalue for="1" value="28" />
+          <attvalue for="2" value="3.0" />
+        </attvalues>
+      </node>
+      <node id="1620308c-a247-4628-882d-c58d937c79eb" label="1620308c-a247-4628-882d-c58d937c79eb">
+        <attvalues>
+          <attvalue for="0" value="Community 29" />
+          <attvalue for="1" value="29" />
+          <attvalue for="2" value="6.0" />
+        </attvalues>
+      </node>
+      <node id="17979e46-4cd9-4a79-b6c7-c501ee1db7a4" label="17979e46-4cd9-4a79-b6c7-c501ee1db7a4">
+        <attvalues>
+          <attvalue for="0" value="Community 30" />
+          <attvalue for="1" value="30" />
+          <attvalue for="2" value="12.0" />
+        </attvalues>
+      </node>
+      <node id="7ebc42a1-c000-4a2d-a07b-013d839cde8a" label="7ebc42a1-c000-4a2d-a07b-013d839cde8a">
+        <attvalues>
+          <attvalue for="0" value="Community 31" />
+          <attvalue for="1" value="31" />
+          <attvalue for="2" value="5.0" />
+        </attvalues>
+      </node>
+      <node id="cd2bc9ce-5bcb-443a-9815-2a513c2eb536" label="cd2bc9ce-5bcb-443a-9815-2a513c2eb536">
+        <attvalues>
+          <attvalue for="0" value="Community 32" />
+          <attvalue for="1" value="32" />
+          <attvalue for="2" value="12.0" />
+        </attvalues>
+      </node>
+      <node id="c3123831-03b9-4771-9173-9d37a9985a7b" label="c3123831-03b9-4771-9173-9d37a9985a7b">
+        <attvalues>
+          <attvalue for="0" value="Community 33" />
+          <attvalue for="1" value="33" />
+          <attvalue for="2" value="7.0" />
+        </attvalues>
+      </node>
+      <node id="e3c5e71b-3f35-45bf-9aef-239a71aa56ab" label="e3c5e71b-3f35-45bf-9aef-239a71aa56ab">
+        <attvalues>
+          <attvalue for="0" value="Community 34" />
+          <attvalue for="1" value="34" />
+          <attvalue for="2" value="6.0" />
+        </attvalues>
+      </node>
+      <node id="2144eb63-4cd3-4e30-a01b-f8cce22652ae" label="2144eb63-4cd3-4e30-a01b-f8cce22652ae">
+        <attvalues>
+          <attvalue for="0" value="Community 35" />
+          <attvalue for="1" value="35" />
+          <attvalue for="2" value="8.0" />
+        </attvalues>
+      </node>
+      <node id="310befdf-e2db-4541-90fc-f5837a927b2d" label="310befdf-e2db-4541-90fc-f5837a927b2d">
+        <attvalues>
+          <attvalue for="0" value="Community 36" />
+          <attvalue for="1" value="36" />
+          <attvalue for="2" value="6.0" />
+        </attvalues>
+      </node>
+      <node id="7e7dd3e1-8388-4176-8859-f5ec7f4c2e70" label="7e7dd3e1-8388-4176-8859-f5ec7f4c2e70">
+        <attvalues>
+          <attvalue for="0" value="Community 37" />
+          <attvalue for="1" value="37" />
+          <attvalue for="2" value="11.0" />
+        </attvalues>
+      </node>
+      <node id="6956d7f1-e32f-4ad3-9278-ca761c1dff02" label="6956d7f1-e32f-4ad3-9278-ca761c1dff02">
+        <attvalues>
+          <attvalue for="0" value="Community 38" />
+          <attvalue for="1" value="38" />
+          <attvalue for="2" value="9.0" />
+        </attvalues>
+      </node>
+      <node id="ea7d0855-cb6f-4602-9809-0a4f3e56fc2d" label="ea7d0855-cb6f-4602-9809-0a4f3e56fc2d">
+        <attvalues>
+          <attvalue for="0" value="Community 39" />
+          <attvalue for="1" value="39" />
+          <attvalue for="2" value="3.0" />
+        </attvalues>
+      </node>
+      <node id="74cab6ff-8939-4d47-98eb-4316fb8e06f3" label="74cab6ff-8939-4d47-98eb-4316fb8e06f3">
+        <attvalues>
+          <attvalue for="0" value="Community 40" />
+          <attvalue for="1" value="40" />
+          <attvalue for="2" value="4.0" />
+        </attvalues>
+      </node>
+      <node id="05cb1d90-a2f6-42d7-ac0d-db6ba19393c0" label="05cb1d90-a2f6-42d7-ac0d-db6ba19393c0">
+        <attvalues>
+          <attvalue for="0" value="Community 41" />
+          <attvalue for="1" value="41" />
+          <attvalue for="2" value="4.0" />
+        </attvalues>
+      </node>
+      <node id="8f181bf9-2958-440b-a2c9-9f460a995dc5" label="8f181bf9-2958-440b-a2c9-9f460a995dc5">
+        <attvalues>
+          <attvalue for="0" value="Community 42" />
+          <attvalue for="1" value="42" />
+          <attvalue for="2" value="6.0" />
+        </attvalues>
+      </node>
+      <node id="60e91719-ebd0-4e98-8e2f-80a586b49b52" label="60e91719-ebd0-4e98-8e2f-80a586b49b52">
+        <attvalues>
+          <attvalue for="0" value="Community 43" />
+          <attvalue for="1" value="43" />
+          <attvalue for="2" value="7.0" />
+        </attvalues>
+      </node>
+      <node id="4a00fbbb-d6e6-4c26-a941-a86a3008c585" label="4a00fbbb-d6e6-4c26-a941-a86a3008c585">
+        <attvalues>
+          <attvalue for="0" value="Community 44" />
+          <attvalue for="1" value="44" />
+          <attvalue for="2" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="ad78f2d5-f18c-4f3e-b4df-ba7bca95d251" label="ad78f2d5-f18c-4f3e-b4df-ba7bca95d251">
+        <attvalues>
+          <attvalue for="0" value="Community 45" />
+          <attvalue for="1" value="45" />
+          <attvalue for="2" value="5.0" />
+        </attvalues>
+      </node>
+      <node id="5fc6686e-3d6f-458e-8b55-39a9c12961c8" label="5fc6686e-3d6f-458e-8b55-39a9c12961c8">
+        <attvalues>
+          <attvalue for="0" value="Community 46" />
+          <attvalue for="1" value="46" />
+          <attvalue for="2" value="3.0" />
+        </attvalues>
+      </node>
+      <node id="74da2915-b5ea-4335-9805-955b0d301aff" label="74da2915-b5ea-4335-9805-955b0d301aff">
+        <attvalues>
+          <attvalue for="0" value="Community 47" />
+          <attvalue for="1" value="47" />
+          <attvalue for="2" value="10.0" />
+        </attvalues>
+      </node>
+      <node id="bb04e108-5981-4713-b1f6-3b12816d362b" label="bb04e108-5981-4713-b1f6-3b12816d362b">
+        <attvalues>
+          <attvalue for="0" value="Community 48" />
+          <attvalue for="1" value="48" />
+          <attvalue for="2" value="5.0" />
+        </attvalues>
+      </node>
+      <node id="2edc2d73-18e9-4176-b8ab-e633c45725ed" label="2edc2d73-18e9-4176-b8ab-e633c45725ed">
+        <attvalues>
+          <attvalue for="0" value="Community 49" />
+          <attvalue for="1" value="49" />
+          <attvalue for="2" value="7.0" />
+        </attvalues>
+      </node>
+      <node id="0a13e3d3-3dc1-494f-b95e-1998d2f93254" label="0a13e3d3-3dc1-494f-b95e-1998d2f93254">
+        <attvalues>
+          <attvalue for="0" value="Community 50" />
+          <attvalue for="1" value="50" />
+          <attvalue for="2" value="3.0" />
+        </attvalues>
+      </node>
+      <node id="92ddcb6e-d1da-4e8a-8c51-47a42b1c6489" label="92ddcb6e-d1da-4e8a-8c51-47a42b1c6489">
+        <attvalues>
+          <attvalue for="0" value="Community 51" />
+          <attvalue for="1" value="51" />
+          <attvalue for="2" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="6e4b8204-2910-4a4a-a4e9-e758ee30ee33" label="6e4b8204-2910-4a4a-a4e9-e758ee30ee33">
+        <attvalues>
+          <attvalue for="0" value="Community 52" />
+          <attvalue for="1" value="52" />
+          <attvalue for="2" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="1b7cf648-da2d-40f2-9515-c93889e984fa" label="1b7cf648-da2d-40f2-9515-c93889e984fa">
+        <attvalues>
+          <attvalue for="0" value="Community 53" />
+          <attvalue for="1" value="53" />
+          <attvalue for="2" value="6.0" />
+        </attvalues>
+      </node>
+      <node id="bb119b18-7440-4a1b-83e4-a3f447aaf292" label="bb119b18-7440-4a1b-83e4-a3f447aaf292">
+        <attvalues>
+          <attvalue for="0" value="Community 54" />
+          <attvalue for="1" value="54" />
+          <attvalue for="2" value="4.0" />
+        </attvalues>
+      </node>
+      <node id="10f0aef8-e89b-4f78-9998-5b802a7483ec" label="10f0aef8-e89b-4f78-9998-5b802a7483ec">
+        <attvalues>
+          <attvalue for="0" value="Community 55" />
+          <attvalue for="1" value="55" />
+          <attvalue for="2" value="6.0" />
+        </attvalues>
+      </node>
+      <node id="428d3337-94df-4e60-b094-6eab1c08d30b" label="428d3337-94df-4e60-b094-6eab1c08d30b">
+        <attvalues>
+          <attvalue for="0" value="Community 56" />
+          <attvalue for="1" value="56" />
+          <attvalue for="2" value="12.0" />
+        </attvalues>
+      </node>
+      <node id="72062652-8866-452f-9569-f6fbf4940c2d" label="72062652-8866-452f-9569-f6fbf4940c2d">
+        <attvalues>
+          <attvalue for="0" value="Community 57" />
+          <attvalue for="1" value="57" />
+          <attvalue for="2" value="3.0" />
+        </attvalues>
+      </node>
+      <node id="01d04bff-df35-48e3-a36c-81d1a2f0350d" label="01d04bff-df35-48e3-a36c-81d1a2f0350d">
+        <attvalues>
+          <attvalue for="0" value="Community 58" />
+          <attvalue for="1" value="58" />
+          <attvalue for="2" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="9b29b538-0389-4df6-a710-af76a5decfb0" label="9b29b538-0389-4df6-a710-af76a5decfb0">
+        <attvalues>
+          <attvalue for="0" value="Community 59" />
+          <attvalue for="1" value="59" />
+          <attvalue for="2" value="10.0" />
+        </attvalues>
+      </node>
+      <node id="aef10561-4ed8-43fb-9afd-5c2ed8bb0013" label="aef10561-4ed8-43fb-9afd-5c2ed8bb0013">
+        <attvalues>
+          <attvalue for="0" value="Community 60" />
+          <attvalue for="1" value="60" />
+          <attvalue for="2" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="489f4f7a-ae71-4f10-88cd-3b0d2dbfdd0b" label="489f4f7a-ae71-4f10-88cd-3b0d2dbfdd0b">
+        <attvalues>
+          <attvalue for="0" value="Community 61" />
+          <attvalue for="1" value="61" />
+          <attvalue for="2" value="5.0" />
+        </attvalues>
+      </node>
+      <node id="1f132e3c-490e-4e69-9799-a041eb6e6486" label="1f132e3c-490e-4e69-9799-a041eb6e6486">
+        <attvalues>
+          <attvalue for="0" value="Community 62" />
+          <attvalue for="1" value="62" />
+          <attvalue for="2" value="7.0" />
+        </attvalues>
+      </node>
+      <node id="6419eaf6-904e-4946-883b-3eece1af575f" label="6419eaf6-904e-4946-883b-3eece1af575f">
+        <attvalues>
+          <attvalue for="0" value="Community 63" />
+          <attvalue for="1" value="63" />
+          <attvalue for="2" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="726b10c6-6bec-41ee-a387-8be798a56271" label="726b10c6-6bec-41ee-a387-8be798a56271">
+        <attvalues>
+          <attvalue for="0" value="Community 64" />
+          <attvalue for="1" value="64" />
+          <attvalue for="2" value="3.0" />
+        </attvalues>
+      </node>
+      <node id="86c50c7b-6e18-4c33-845d-6a745fcce876" label="86c50c7b-6e18-4c33-845d-6a745fcce876">
+        <attvalues>
+          <attvalue for="0" value="Community 65" />
+          <attvalue for="1" value="65" />
+          <attvalue for="2" value="6.0" />
+        </attvalues>
+      </node>
+      <node id="0470decc-a1b2-45bd-a3eb-2720279be171" label="0470decc-a1b2-45bd-a3eb-2720279be171">
+        <attvalues>
+          <attvalue for="0" value="Community 66" />
+          <attvalue for="1" value="66" />
+          <attvalue for="2" value="6.0" />
+        </attvalues>
+      </node>
+      <node id="4aa7c275-d186-4fb5-be9c-21114ff570c9" label="4aa7c275-d186-4fb5-be9c-21114ff570c9">
+        <attvalues>
+          <attvalue for="0" value="Community 67" />
+          <attvalue for="1" value="67" />
+          <attvalue for="2" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="ac339de9-af9c-47ef-b8b7-68c15eced81b" label="ac339de9-af9c-47ef-b8b7-68c15eced81b">
+        <attvalues>
+          <attvalue for="0" value="Community 68" />
+          <attvalue for="1" value="68" />
+          <attvalue for="2" value="2.0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges />
+  </graph>
+</gexf>
