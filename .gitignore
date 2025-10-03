@@ -1,3 +1,4 @@
 graphrag_env
 file
 chromadb
+.DS_Store
